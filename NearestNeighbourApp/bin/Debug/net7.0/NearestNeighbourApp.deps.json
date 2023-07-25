@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NearestNeighbourApp/1.0.0": {
+        "dependencies": {
+          "CalculationsLibrary": "1.0.0",
+          "VehicleModels": "1.0.0"
+        },
+        "runtime": {
+          "NearestNeighbourApp.dll": {}
+        }
+      },
+      "CalculationsLibrary/1.0.0": {
+        "dependencies": {
+          "VehicleModels": "1.0.0"
+        },
+        "runtime": {
+          "CalculationsLibrary.dll": {}
+        }
+      },
+      "VehicleModels/1.0.0": {
+        "runtime": {
+          "VehicleModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NearestNeighbourApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

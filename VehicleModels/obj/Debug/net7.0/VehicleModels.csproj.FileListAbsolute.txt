@@ -1,0 +1,12 @@
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/bin/Debug/net7.0/VehicleModels.deps.json
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/bin/Debug/net7.0/VehicleModels.dll
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/bin/Debug/net7.0/VehicleModels.pdb
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.csproj.AssemblyReference.cache
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.AssemblyInfoInputs.cache
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.AssemblyInfo.cs
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.csproj.CoreCompileInputs.cache
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.dll
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/refint/VehicleModels.dll
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/VehicleModels.pdb
+/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/Debug/net7.0/ref/VehicleModels.dll
