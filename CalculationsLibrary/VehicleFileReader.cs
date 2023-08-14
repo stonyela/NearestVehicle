@@ -28,7 +28,7 @@ public static class VehicleFileReader
             }
         }
 
-        SortVehicles(vehicles.ToArray(), 0);
+        VehicleFinder.MergeSort(vehicles, 0, vehicles.Length - 1, 0);
 
         return vehicles.ToArray();
     }

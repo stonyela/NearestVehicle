@@ -1,12 +1,18 @@
 ﻿using CalculationsLibrary;
+using System;
 using System.Diagnostics;
+using System.Threading.Tasks;
+
+Console.WriteLine($"Reading and processing 2 million records");
+Console.WriteLine($"========================================");
+Console.WriteLine();
 
 var stopWatch = new Stopwatch();
 stopWatch.Start();
 
 var vehicles = VehicleFileReader.ReadVehicles("VehiclePositions.dat");
 
-var kDimensionalTree = new KDimensionalTree(vehicles);
+var kDimensionalTree = new VehicleFinder(vehicles);
 
 // Search for the nearest vehicles
 float[,] positions = {
@@ -22,12 +28,14 @@ float[,] positions = {
     {32.234235f, -100.222222f}
 };
 
-for (var i = 0; i < positions.GetLength(0); i++)
+Parallel.For(0, positions.GetLength(0), i =>
 {
     var nearest = kDimensionalTree.Nearest(positions[i, 0], positions[i, 1]);
     Console.WriteLine($"Closest vehicle to position {positions[i, 0]},{positions[i, 1]} is {nearest.VehicleId} with coordinates: {nearest.Latitude}, {nearest.Longitude}.");
-}
+});
 
 stopWatch.Stop();
-Console.WriteLine($"{stopWatch.Elapsed.TotalSeconds}"); // takes on average 23 seconds
+Console.WriteLine($"Total Processing Time: {stopWatch.Elapsed.TotalSeconds}"); // takes on average 2.4 seconds
+
+Console.ReadKey();
 

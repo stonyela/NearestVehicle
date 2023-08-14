@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj",
+      "projectUniqueName": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj",
       "projectName": "VehicleModels",
-      "projectPath": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj",
+      "projectPath": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj",
       "packagesPath": "/Users/sinovuyotonyela/.nuget/packages/",
-      "outputPath": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/",
+      "outputPath": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sinovuyotonyela/.nuget/NuGet/NuGet.Config"

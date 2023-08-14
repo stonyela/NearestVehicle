@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/CalculationsLibrary.csproj",
+      "projectUniqueName": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/CalculationsLibrary.csproj",
       "projectName": "CalculationsLibrary",
-      "projectPath": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/CalculationsLibrary.csproj",
+      "projectPath": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/CalculationsLibrary.csproj",
       "packagesPath": "/Users/sinovuyotonyela/.nuget/packages/",
-      "outputPath": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/obj/",
+      "outputPath": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/CalculationsLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sinovuyotonyela/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj": {
-              "projectPath": "/Users/sinovuyotonyela/Documents/GitHub/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj"
+            "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj": {
+              "projectPath": "/Users/sinovuyotonyela/Documents/vehicle-nearest-neighbour/NearestNeighbour/VehicleModels/VehicleModels.csproj"
             }
           }
         }
